@@ -1,8 +1,8 @@
 import '../styles/main.scss';
 
 const init = () => {
-  $('#app').html('<h1>HELLO! You are up and running!</h1>');
-  console.log('YOU ARE UP AND RUNNING!');
+  $('#app').html('<h1>Its thursday guys!</h1>');
+  console.log('Hey its Thursday!');
 };
 
 init();
